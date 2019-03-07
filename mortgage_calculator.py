@@ -1,4 +1,4 @@
-'''Makes a mortgage calculator'''
+'''Makes a mortgage calculator and calculates the monthly payment on the mortgage'''
 
 num_of_years = float(input("Please specify the number of years you want to take the mortgage for: "))
 payment_period = 12 * num_of_years
